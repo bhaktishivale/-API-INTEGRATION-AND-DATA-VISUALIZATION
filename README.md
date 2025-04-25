@@ -100,3 +100,8 @@ Practice with basic data manipulation using pandas
 Understanding of visualization techniques using matplotlib and seaborn
 
 Structuring a notebook for clarity and presentation
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5c712959-430d-4633-9321-6826ae3dbbed)
+![Image](https://github.com/user-attachments/assets/4c64af28-8e8d-4b9d-9a0c-5e5979f78581)
